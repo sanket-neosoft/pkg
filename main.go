@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-var a int = 20
-
 func main() {
-	fmt.Println(Years(10))
+	fmt.Println("hello world")
 }
